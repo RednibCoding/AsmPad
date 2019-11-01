@@ -1,4 +1,4 @@
-# Minimal editor for assembly language written in masm
+# Minimal editor for assembly language written in Microsofts Macro Assembler
 
 ### This project was just for learning assembly.
 
