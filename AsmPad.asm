@@ -207,9 +207,9 @@ WinMain proc hInst     :DWORD,
         .endif
 	.endif
 	.if msg.message == WM_KEYUP
-	    .if msg.wParam == VK_CONTROL	  
+	    ;.if msg.wParam == VK_CONTROL	  
           	mov CtrlFlag, 0			  ; flag clear
-	    .endif
+	    ;.endif
       .endif
 
       .if msg.message == WM_KEYDOWN
