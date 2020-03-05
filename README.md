@@ -8,7 +8,7 @@
 - Normal document functions: New/Open/Save/Save As with keyboard shortcuts
 - Normal editing functions: Cut/Copy/Paste/Undo/Redo/Find with keyboard shortcuts
 - Merge files
-- Define a task.bat and run it from within the editor (for building the project you are working on with a click of a button)
+- Define a task.bat and run it from within the editor (for building the project you are working on with a click of a button) (see: output/task.bat for a simple template)
 - Run a new instance of this editor from within the editor
 - Drop files into the editor to open them
 ## Compile
